@@ -27,4 +27,10 @@ Reporting is a task here. The report has to be detailed with references and ever
 Once you submit the report, you get an acknowledgement mail saying that you'll get the results in 48 hours. A successful attempt's mail will look something like this
 
 ![result email](https://github.com/ashhad/Certified-Red-Team-Professional-Exam-Review/blob/master/CRTP_email.jpg)
+
+And a few days later, I got this twitter shout-out as well
+
 ![twitter shoutout](https://github.com/ashhad/Certified-Red-Team-Professional-Exam-Review/blob/master/CRTP_twitter.jpg)
+
+
+In the end, I'll definitley recommend this course to all my feloow security enthusiasts. I am sure there is something to learn for all of us in this course.
