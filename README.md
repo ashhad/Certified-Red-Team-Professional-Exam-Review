@@ -3,7 +3,7 @@ A review of the Attacking and Defending Active Directory Lab course by Pentester
 
 More information here https://www.pentesteracademy.com/activedirectorylab
 
-# Course Review
+# Course Overview
 
 The Attacking and Defending Active Directory Lab course by Pentester Academy is a beginner friendly course focussed on the concepts of Active Directory. The course introduces students to the various Active Directory elements and their behaviours. Students are introduced to a number of Active Directory enumeration strategies, attacks, persistence and attack-detection methodologies.
 
