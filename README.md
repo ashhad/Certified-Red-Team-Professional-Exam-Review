@@ -1,4 +1,4 @@
-# Certified-Red-Team-Professional-Exam-Review
+## Certified-Red-Team-Professional-Exam-Review
 A review of the Attacking and Defending Active Directory Lab course by Pentester Academy and the accompanying CRTP exam.
 
 More information here https://www.pentesteracademy.com/activedirectorylab
@@ -33,4 +33,4 @@ And a few days later, I got this twitter shout-out as well
 ![twitter shoutout](https://github.com/ashhad/Certified-Red-Team-Professional-Exam-Review/blob/master/CRTP_twitter.jpg)
 
 
-In the end, I'll definitley recommend this course to all my feloow security enthusiasts. I am sure there is something to learn for all of us in this course.
+In the end, I'll definitley recommend this course to all my fellow security enthusiasts. I am sure there is something to learn for all of us in this course.
